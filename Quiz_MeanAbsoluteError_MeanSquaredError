@@ -1,0 +1,15 @@
+** Quiz for Mean Absolute Error **
+Compute the mean absolute error for the following line and points:
+line: y = 1.2x + 2
+points: (2, -2), (5, 6), (-4, -4), (-7, 1), (8, 14)
+
+Ans: 3.88
+
+
+** Quiz for Mean Squared Error **
+
+Compute the mean squared error for the following line and points:
+line: y = 1.2x + 2
+points: (2, -2), (5, 6), (-4, -4), (-7, 1), (8, 14)
+
+Ans: 10.692
